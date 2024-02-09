@@ -18,6 +18,18 @@ linkedin_username: "Logan Crabtree"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
+# _config.yml
+
+colors:
+  light:
+    background: "#ffffff"
+    text: "#333333"
+  dark:
+    background: "#222222"
+    text: "#ffffff"
+
+
+    
 theme: "minima"
 
 rss: rss
