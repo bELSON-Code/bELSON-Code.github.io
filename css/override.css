@@ -2,7 +2,7 @@ hr {
   margin-top: 30px;
   margin-bottom: 20px;
 
-
+}
 :root {
   --background-color: #ffffff;
   --text-color: #333333;
@@ -13,7 +13,7 @@ hr {
     --background-color: #333333;
     --text-color: #ffffff;
   }
-}
+
 
 body {
   background-color: var(--background-color);
