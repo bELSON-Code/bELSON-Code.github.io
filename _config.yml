@@ -28,7 +28,7 @@ colors:
     background: "#222222"
     text: "#ffffff"
 
-dark_mode: false
+dark_mode: true
     
 theme: "minima"
 
