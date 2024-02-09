@@ -8,6 +8,6 @@ It was quite fun but unfortunately it had to come to an end. I want to work in a
 cyber security eventually but, my dream job is to be a physical pentester. I have started learning 
 how to lockpick and from time to time I practice social engineering.
 
-My journy has been a bumpy one but I'm keeping my head down and grinding out what I need to. I 
+My journey has been a bumpy one but I'm keeping my head down and grinding out what I need to. I 
 started college in 2020 right out of highschool but I took some detours along the way. I am currently
 almost done with school; graduating this year. So thats a little bit about me.
