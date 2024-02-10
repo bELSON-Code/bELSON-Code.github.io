@@ -49,4 +49,7 @@ take a look (click image):
 There is a lot more we could talk about regarding cryptographic failures like salting and seeding, but that is for another day.
 Have a great day and come back tomorrow for another blog post!
 
-
+## Refrences for this Blog post:
+- https://crashtest-security.com/owasp-cryptographic-failures/
+- https://owasp.org/Top10/A02_2021-Cryptographic_Failures/
+- https://chat.openai.com/
