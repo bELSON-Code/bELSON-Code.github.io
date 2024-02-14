@@ -19,22 +19,23 @@ Rather than segmenting the network into large, coarse-grained segments, microseg
 smaller, more granular segments. This allows for precise enforcement of security policies based on individual workloads, 
 applications, or data flows, reducing the attack surface and limiting lateral movement by attackers.
 
--Software-Defined Networking (SDN) Security: 
+
+- Software-Defined Networking (SDN) Security: 
 SDN separates the network control plane from the data plane, providing centralized
 management and programmability. Advanced SDN security measures include dynamic policy enforcement, automated threat response,
 and integration with threat intelligence feeds for adaptive security posture.
 
--Behavioral Analytics and Machine Learning: 
+- Behavioral Analytics and Machine Learning: 
 Advanced security solutions leverage behavioral analytics and machine learning algorithms
 to detect anomalies and identify potential security threats based on patterns of user behavior, network traffic, or system activity.
 These technologies enhance threat detection capabilities beyond traditional signature-based methods.
 
--Deception Technologies: 
+- Deception Technologies: 
 Deception technologies deploy decoy assets, such as fake network services, endpoints, or data, to lure 
 attackers and gather intelligence about their tactics, techniques, and procedures (TTPs). Deception can help detect and mitigate 
 advanced threats, including targeted attacks and insider threats.
 
--Blockchain for Network Security:
+- Blockchain for Network Security:
 Blockchain technology offers decentralized, tamper-resistant data storage and transaction 
 verification, which can enhance the security and integrity of network communications, authentication processes, and distributed 
 applications. Use cases include secure identity management, transparent auditing, and decentralized threat intelligence sharing.
