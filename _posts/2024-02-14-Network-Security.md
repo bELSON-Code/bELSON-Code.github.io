@@ -14,7 +14,7 @@ This model assumes that threats could be both external and internal, and therefo
 not be automatically granted to any user or device, whether inside or outside the network perimeter. Zero Trust requires strict 
 identity verification, continuous monitoring, and least privilege access controls.
 
--Microsegmentation: 
+- Microsegmentation: 
 Rather than segmenting the network into large, coarse-grained segments, microsegmentation divides it into 
 smaller, more granular segments. This allows for precise enforcement of security policies based on individual workloads, 
 applications, or data flows, reducing the attack surface and limiting lateral movement by attackers.
